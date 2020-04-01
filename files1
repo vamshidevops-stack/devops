@@ -1,0 +1,8 @@
+testing pull command from the git hub
+coding
+code build
+deploy
+git add .
+git commit -m "message"
+git push origin master
+git pull
