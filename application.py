@@ -90,7 +90,7 @@ welcome = """
   }
 
   h1 {
-    font-size: 500%;
+    font-size: 250%;
     font-weight: normal;
     margin-bottom: 0em;
   }
